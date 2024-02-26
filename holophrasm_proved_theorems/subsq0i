@@ -1,0 +1,1 @@
+cA c2 cexp co cB c2 cexp co cmin co cc0 wceq cA c2 cexp co cB c2 cexp co wceq cA cB wceq cA cB cneg wceq wo cA c2 cexp co cB c2 cexp co cA binom2.1 sqcli cB binom2.2 sqcli subeq0i cA cB binom2.1 binom2.2 sqeqori bitri
