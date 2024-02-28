@@ -2,7 +2,7 @@
 
 This is the official repo for
 
-[**REFACTOR: Learning to Extract Theorems from Proofs**](https://openreview.net/forum?id=fgKjiVrm6u) (ICLR 2024)
+[**REFACTOR: Learning to Extract Theorems from Proofs**](http://arxiv.org/abs/2402.17032) (ICLR 2024)
 
 by Jin Peng Zhou*, Yuhuai Wu*, Qiyang Li, and Roger Grosse \
 *Equal Contribution
